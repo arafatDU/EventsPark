@@ -1,0 +1,1 @@
+## A CLI based Event Management Application using Ruby Programming Language.
